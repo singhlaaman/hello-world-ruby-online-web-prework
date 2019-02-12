@@ -1,4 +1,4 @@
 `hello_world.rb`
-```ruby
+``ruby
 puts "Hello World!"
-```
+``
